@@ -1,4 +1,4 @@
-# python-functions
+# Python-Functions
 ### What is this?
   - This are some functions i use for working with databases, google oauth api, github oauth api and delay prints
  ### How to install
